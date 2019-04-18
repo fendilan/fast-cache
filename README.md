@@ -8,7 +8,8 @@
 
 ## 安装下载
 - 下载地址 https://github.com/fendilan/fast-cache/releases
-
+- npm i fast-cache-practice
+- CDN http://unpkg.com/fast-cache-practice/release/bundle.js
 
 ## 快速使用
 
