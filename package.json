@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-practice",
   "version": "0.0.1",
   "description": "\u0016短小精悍的前端缓存工具，防止内存“侧漏”",
   "main": "src/index.js",
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/fendilan/fast-cache#readme",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "user": "0.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

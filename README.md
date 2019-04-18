@@ -7,7 +7,7 @@
 特色 (推广的一些亮点)
 
 ## 安装下载
-
+- 下载地址 https://github.com/fendilan/fast-cache/releases
 
 
 ## 快速使用
