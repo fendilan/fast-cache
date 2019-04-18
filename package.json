@@ -21,7 +21,9 @@
     "url": "https://github.com/fendilan/fast-cache/issues"
   },
   "homepage": "https://github.com/fendilan/fast-cache#readme",
-  "dependencies": {},
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
